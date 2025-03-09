@@ -1,5 +1,5 @@
 ### Hello! I’m Shani Israelov 😄
-I am a Computer Science master’s graduate from the IMLEX - Erasmus Mundus Japan program, specializing in Computer Vision and Machine Learning. I completed my thesis on **Generative AI** at the VisualAI lab under the supervision of Kuriyama-Sensei at Toyohashi University of Technology, Japan.
+I am a Computer Science master’s graduate from the IMLEX - Erasmus Mundus Japan program, specializing in Computer Vision and Image Processing. I completed my thesis on **Generative AI** at the VisualAI lab under the supervision of Kuriyama-Sensei at Toyohashi University of Technology, Japan.
 
 Previously, I worked at Qualcomm as an Algorithm and System Engineer, focusing on signal processing. I hold a B.Sc. in Electrical and Computer Engineering from Technion – Israel Institute of Technology.
 
